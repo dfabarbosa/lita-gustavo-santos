@@ -1,1 +1,1 @@
-require "lita/handlers/gustavosantos"
+require "lita/handlers/gustavo_santos"
